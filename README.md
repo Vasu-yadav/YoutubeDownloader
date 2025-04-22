@@ -14,7 +14,7 @@ A Python-based YouTube downloader that allows you to download videos in MP4 form
 
 ## Screenshots
 
-(Screenshots to be added by user)
+![YouTube Downloader GUI](./assets/youtube_downloader_gui.png)
 
 ## Requirements
 
