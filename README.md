@@ -28,7 +28,7 @@ A Python-based YouTube downloader that allows you to download videos in MP4 form
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/YoutubeDownloader.git
+git clone https://github.com/Vasu-yadav/YoutubeDownloader.git
 cd YoutubeDownloader
 ```
 
